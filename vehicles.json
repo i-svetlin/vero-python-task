@@ -1,0 +1,438 @@
+[
+    {
+        "gruppe": "LKW",
+        "kurzname": "PB V 1300 (Container)",
+        "langtext": "MAN 26.440 Kennzeichen PB V 1300.",
+        "info": "\"Dieses Fahrzeug wurde f\u00fcr den Ger\u00fcstbau angeschafft."
+    },
+    {
+        "gruppe": "Es kann mit der alten F\u00fchrerscheinklasse 2"
+    },
+    {
+        "gruppe": "Es kann mit der alten F\u00fchrerscheinklasse 2"
+    },
+    {
+        "gruppe": "Die Zuladung betr\u00e4gt ca. 15.000 KG einschl. Container.\"",
+        "kurzname": "Paderborn",
+        "langtext": ""
+    },
+    {
+        "gruppe": "LKW",
+        "kurzname": "PB V 1400 (LKW m. Kran)",
+        "langtext": "MAN 26.440 Kennzeichen PB V 1400",
+        "info": "\"Dieses Fahrzeug wurde f\u00fcr den Ger\u00fcstbau angeschafft."
+    },
+    {
+        "gruppe": "Es kann mit der alten F\u00fchrerscheinklasse 2"
+    },
+    {
+        "gruppe": "Es kann mit der alten F\u00fchrerscheinklasse 2"
+    },
+    {
+        "gruppe": "Die Zuladung betr\u00e4gt ca. 12.000 KG\"",
+        "kurzname": "Paderborn",
+        "langtext": ""
+    },
+    {
+        "gruppe": "LKW",
+        "kurzname": "PB- VR 1500 (blauer MB 814)",
+        "langtext": "Mercedes Benz 814 Pritschenfahrzeug",
+        "info": "\"Dieses Fahrzeug wurde f\u00fcr den Ger\u00fcstbau angeschafft."
+    },
+    {
+        "gruppe": "Es kann mit der alten F\u00fchrerscheinklasse 3"
+    },
+    {
+        "gruppe": "Es kann mit der alten F\u00fchrerscheinklasse 3"
+    },
+    {
+        "gruppe": "Die Zuladung betr\u00e4gt ca. 2.700 KG."
+    },
+    {
+        "gruppe": "-"
+    },
+    {
+        "gruppe": "Im Dezember 2018 wurde bei Kr\u00f6ger Fahrzeugbau die Pritsche \u00fcberholt und weiter Kisten unter der Ladefl\u00e4che montiert."
+    },
+    {
+        "gruppe": "-\"",
+        "kurzname": "Paderborn",
+        "langtext": ""
+    },
+    {
+        "gruppe": "LKW",
+        "kurzname": "PB LH 391 (roter MB 1320)",
+        "langtext": "\"Mercendes-Benz"
+    },
+    {
+        "gruppe": "LKW offener Kasten"
+    },
+    {
+        "gruppe": "Kennzeichen:PB LH 391\"",
+        "kurzname": "",
+        "langtext": "Paderborn",
+        "info": ""
+    },
+    {
+        "gruppe": "Anh\u00e4nger",
+        "kurzname": "PB XY 265 (Staplerh\u00e4nger)",
+        "langtext": "",
+        "info": "",
+        "lagerort": "Paderborn",
+        "labelIds": ""
+    },
+    {
+        "gruppe": "Anh\u00e4nger",
+        "kurzname": "PB-XY 406 (PKW H\u00e4nger)",
+        "langtext": "PKW Anh\u00e4nger mit Alubordw\u00e4nden",
+        "info": "2.2 to Zuladung",
+        "lagerort": "Paderborn",
+        "labelIds": ""
+    },
+    {
+        "gruppe": "Anh\u00e4nger",
+        "kurzname": "PB V 1700 (LKW H\u00e4nger)",
+        "langtext": "Kr\u00f6ger Plattform",
+        "info": "",
+        "lagerort": "Paderborn",
+        "labelIds": ""
+    },
+    {
+        "gruppe": "Anh\u00e4nger",
+        "kurzname": "PB HM 7001 (PKW H\u00e4nger)",
+        "langtext": "\"Bien"
+    },
+    {
+        "gruppe": "Anh\u00e4nger",
+        "kurzname": "PB HM 7001 (PKW H\u00e4nger)",
+        "langtext": "\"Bien"
+    },
+    {
+        "gruppe": "Sdah Plattform\"",
+        "kurzname": "Seit 2016 bei Frank Stelzer im Einsatz",
+        "langtext": "Paderborn",
+        "info": ""
+    },
+    {
+        "gruppe": "Anh\u00e4nger",
+        "kurzname": "PB RP 611 (PKW H\u00e4nger)",
+        "langtext": "",
+        "info": "",
+        "lagerort": "Paderborn",
+        "labelIds": ""
+    },
+    {
+        "gruppe": "PKW",
+        "kurzname": "PB VR 30",
+        "langtext": "",
+        "info": "",
+        "lagerort": "Etteln",
+        "labelIds": ""
+    },
+    {
+        "gruppe": "Transporter",
+        "kurzname": "PB VR 900 (Johne)",
+        "langtext": "Mercedes Benz Sprinter",
+        "info": "F\u00fchrerschein B",
+        "lagerort": "Paderborn",
+        "labelIds": ""
+    },
+    {
+        "gruppe": "Transporter",
+        "kurzname": "PB VR 1600 (3-sitzer)",
+        "langtext": "Sprinter offener Kasten",
+        "info": "",
+        "lagerort": "Paderborn",
+        "labelIds": ""
+    },
+    {
+        "gruppe": "Transporter",
+        "kurzname": "PB VR 1700 (Lemke)",
+        "langtext": "Sprinter",
+        "info": "",
+        "lagerort": "Paderborn",
+        "labelIds": ""
+    },
+    {
+        "gruppe": "Transporter",
+        "kurzname": "PB VR 1800 (Horst)",
+        "langtext": "Mercedes Benz Sprinter",
+        "info": "\"Fphrerscheinklasse B"
+    },
+    {
+        "gruppe": "Mietfahrzeug\"",
+        "kurzname": "Paderborn",
+        "langtext": ""
+    },
+    {
+        "gruppe": "LKW",
+        "kurzname": "PB VR 10H (Merceds gr\u00fcn)",
+        "langtext": "Mercedes Typ 809",
+        "info": "\"Zul. Gesamtgewicht : 7"
+    },
+    {
+        "gruppe": "LKW",
+        "kurzname": "PB VR 10H (Merceds gr\u00fcn)",
+        "langtext": "Mercedes Typ 809",
+        "info": "\"Zul. Gesamtgewicht : 7"
+    },
+    {
+        "gruppe": "Nutzlast : 3"
+    },
+    {
+        "gruppe": "Nutzlast : 3"
+    },
+    {
+        "gruppe": "Lieferwagen",
+        "kurzname": "PB VR 200 (Caddy grau)",
+        "langtext": "",
+        "info": "",
+        "lagerort": "Paderborn",
+        "labelIds": ""
+    },
+    {
+        "gruppe": "Flurf\u00f6rderfahrzeuge",
+        "kurzname": "LINDE H30 (KG)",
+        "langtext": "Gabelstapler Linde H30 mit 1.30 m Gabelzinken",
+        "info": "\"Nur mit Einweisung und Fahrauftrag zu bedienen."
+    },
+    {
+        "gruppe": "Batterie 12 Volt 100 Ah L\u00e4nge 34 cm Breite 15 cm H\u00f6he 20 cm\"",
+        "kurzname": "Paderborn",
+        "langtext": ""
+    },
+    {
+        "gruppe": "Flurf\u00f6rderfahrzeuge",
+        "kurzname": "Linde H30 (LG)",
+        "langtext": "Gabelstapler Linde Typ H30 mit 2.30 m Gabelzinken",
+        "info": "\"Gabelstapler nur mit Fahrauftrag und Einweisung zu bedienen."
+    },
+    {
+        "gruppe": "Die Batterie benltigt 100 Ah Abmessungen der Batterie L\u00e4nge 34 cm Tiefe 15 cm und 20 cm H\u00f6he\"",
+        "kurzname": "Paderborn",
+        "langtext": ""
+    },
+    {
+        "gruppe": "Flurf\u00f6rderfahrzeuge",
+        "kurzname": "Linde H80",
+        "langtext": "Gabelstapler Linde Typ H80",
+        "info": "nur mit schriftlicher Genehmigung zu bedienen",
+        "lagerort": "Paderborn",
+        "labelIds": ""
+    },
+    {
+        "gruppe": "PKW",
+        "kurzname": "LP JL 10000",
+        "langtext": "Ford Focus ST Line",
+        "info": "",
+        "lagerort": "Paderborn",
+        "labelIds": "76"
+    },
+    {
+        "gruppe": "",
+        "kurzname": "Bauaufzug ScaffBox Test",
+        "langtext": "",
+        "info": "",
+        "lagerort": "",
+        "labelIds": ""
+    },
+    {
+        "gruppe": "Flurf\u00f6rderfahrzeuge",
+        "kurzname": "Merlo Roto 35.13KS",
+        "langtext": "Merlo Teleskoplader schwenkbar",
+        "info": "",
+        "lagerort": "Paderborn",
+        "labelIds": ""
+    },
+    {
+        "gruppe": "Grupa",
+        "kurzname": "CT 3869 BT",
+        "langtext": "\"Spokoen toy sprya sred arenata shirna"
+    },
+    {
+        "gruppe": "Grupa",
+        "kurzname": "CT 3869 BT",
+        "langtext": "\"Spokoen toy sprya sred arenata shirna"
+    },
+    {
+        "gruppe": "spokoen izpravi glava \u2013"
+    },
+    {
+        "gruppe": "garmi tam talpata i glachka nespirna"
+    },
+    {
+        "gruppe": "otronva neyasni slova.\"",
+        "kurzname": "\"Spokoen toy sprya sred arenata shirna"
+    },
+    {
+        "gruppe": "otronva neyasni slova.\"",
+        "kurzname": "\"Spokoen toy sprya sred arenata shirna"
+    },
+    {
+        "gruppe": "spokoen izpravi glava \u2013"
+    },
+    {
+        "gruppe": "garmi tam talpata i glachka nespirna"
+    },
+    {
+        "gruppe": "otronva neyasni slova.\"",
+        "kurzname": "Sklad-test",
+        "langtext": ""
+    },
+    {
+        "gruppe": "LKW",
+        "kurzname": "PB VR 79 (Atego)",
+        "langtext": "LKW 7.5 to",
+        "info": "",
+        "lagerort": "Paderborn",
+        "labelIds": ""
+    },
+    {
+        "gruppe": "PSA",
+        "kurzname": "630 - Helm",
+        "langtext": "",
+        "info": "",
+        "lagerort": "",
+        "labelIds": ""
+    },
+    {
+        "gruppe": "Hand - Werkzeug",
+        "kurzname": "TITAN Nr. 72 252",
+        "langtext": "Die Kombination besteht aus dem Wagen wo das Stahlband mit gefahren wird und der Ratsche womit das Band gespannt und Abgetrennt wird.",
+        "info": "",
+        "lagerort": "Lagerplatz",
+        "labelIds": ""
+    },
+    {
+        "gruppe": "Hand - Werkzeug",
+        "kurzname": "TITAN Nr. 72 253",
+        "langtext": "",
+        "info": "",
+        "lagerort": "Internes Lager 1",
+        "labelIds": ""
+    },
+    {
+        "gruppe": "Hand - Werkzeug",
+        "kurzname": "TITAN Nr. 72 254",
+        "langtext": "Die Kombination besteht aus dem Wagen wo das Stahlband mit gefahren wird und der Ratsche womit das Band gespannt und Abgetrennt wird.",
+        "info": "",
+        "lagerort": "Internes Lager",
+        "labelIds": ""
+    },
+    {
+        "gruppe": "Arbeitsger\u00e4t",
+        "kurzname": "SL 1500",
+        "langtext": "Bauaufzug 1.500 KG Tragkraft zugel. f\u00fcr Personen und Lasten.",
+        "info": "",
+        "lagerort": "Paderborn",
+        "labelIds": ""
+    },
+    {
+        "gruppe": "",
+        "kurzname": "Fahrrad",
+        "langtext": "Hersteller : BULLS Typ: Copperhead EVO 2 He29 Sw54 E-M",
+        "info": "",
+        "lagerort": "",
+        "labelIds": ""
+    },
+    {
+        "gruppe": "LKW",
+        "kurzname": "PB VR 83",
+        "langtext": "Mercedes Benz",
+        "info": "Anh\u00e4nger f\u00fcr PB-MH 220",
+        "lagerort": "Paderborn",
+        "labelIds": ""
+    },
+    {
+        "gruppe": "PKW",
+        "kurzname": "CT 0563 PP",
+        "langtext": "",
+        "info": "",
+        "lagerort": "",
+        "labelIds": ""
+    },
+    {
+        "gruppe": "B\u00fcro",
+        "kurzname": "SCANDINAVIER Plutek A 350",
+        "langtext": "Scanner von KUHN IT",
+        "info": "\"Heutiger Anruf von Herrn Braunschmied (07182 - 51 60 141):"
+    },
+    {
+        "gruppe": "Sein L\u00f6sungsvorschlag war"
+    },
+    {
+        "gruppe": "Sein L\u00f6sungsvorschlag war"
+    },
+    {
+        "gruppe": "PKW",
+        "kurzname": "VW Passat PB-VR 24 H",
+        "langtext": "Das Fahrzeug ist f\u00fcr den Personentransport zu den Baustellen zu nutzen",
+        "info": "",
+        "lagerort": "Paderborn",
+        "labelIds": ""
+    },
+    {
+        "gruppe": "Fahrzeuge",
+        "kurzname": "Subaru / CT 1614 PM",
+        "langtext": "Vormals PB VR 37",
+        "info": "Diese Fahrzeug ist tempor\u00e4r f\u00fcr den Personentransport auf Baustellen in PB.",
+        "lagerort": "Paderborn",
+        "labelIds": ""
+    },
+    {
+        "gruppe": "PKW",
+        "kurzname": "PB-DY 53 (BMW Mini Cooper)",
+        "langtext": "",
+        "info": "",
+        "lagerort": "",
+        "labelIds": ""
+    },
+    {
+        "gruppe": "PKW",
+        "kurzname": "K M2212 (BMW Countryman Cooper)",
+        "langtext": "",
+        "info": "Leasingfahrzeug Schweiz",
+        "lagerort": "Schweiz",
+        "labelIds": ""
+    },
+    {
+        "gruppe": "LKW",
+        "kurzname": "PB OJ422",
+        "langtext": "",
+        "info": "",
+        "lagerort": "Paderborn",
+        "labelIds": ""
+    },
+    {
+        "gruppe": "LKW",
+        "kurzname": "PB VR 70 (Atego)",
+        "langtext": "Mercedes  LKW offener Kasten",
+        "info": "",
+        "lagerort": "Paderborn",
+        "labelIds": ""
+    },
+    {
+        "gruppe": "Bauaufz\u00fcge",
+        "kurzname": "GEDA Z/ZP 1500",
+        "langtext": "Bauaufzug angemietet von VERO Bulgaria EOOD",
+        "info": "",
+        "lagerort": "Paderborn",
+        "labelIds": "77"
+    },
+    {
+        "gruppe": "Bauaufz\u00fcge",
+        "kurzname": "HEK GTP 1500 Dual",
+        "langtext": "Alimak Bauaufzug GTP 1500 Dual",
+        "info": "Dieser Bauaufzug wurde von Bilfinger Arnhold gekauft.",
+        "lagerort": "Paderborn",
+        "labelIds": "77"
+    },
+    {
+        "gruppe": "",
+        "kurzname": "LDK MZ 438",
+        "langtext": "ZANDT - offener Kasten",
+        "info": "",
+        "lagerort": "Gie\u00dfen",
+        "labelIds": ""
+    }
+]
